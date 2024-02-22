@@ -1,0 +1,48 @@
+import React, { useState } from "react";
+import axios from "axios";
+
+export function Tables() {
+  const [query, setQuery] = useState("");
+  const [answer, setAnswer] = useState("");
+
+  const handleSubmit = async () => {
+    try {
+      const response = await axios.post("http://localhost:5000/get_answer", {
+        question: query,
+      });
+
+      setAnswer(response.data.answer);
+    } catch (error) {
+      console.error("Error fetching answer:", error);
+    }
+  };
+
+  return (
+    // ... (your existing JSX code)
+
+    <div className="mt-4" style={{ marginTop: "40px" }}>
+      <button
+        className="bg-blue-500 text-white px-4 py-2 rounded-md"
+        onClick={handleSubmit}
+      >
+        Submit
+      </button>
+    </div>
+
+    <textarea
+      placeholder="Answer will be displayed here"
+      value={answer}
+      readOnly
+      className="border p-3 rounded-md"
+      style={{
+        width: "500px",
+        height: "300px",
+        borderRadius: "30px",
+        border: "2px solid black",
+        boxSizing: "border-box",
+        verticalAlign: "top",
+        marginLeft: "20px", // Add margin to create space
+      }}
+    />
+  </div>
+);

@@ -1,0 +1,48 @@
+Real time insider trading transaction history:
+
+Insiders are prohibited from making short-swing profits by trading their shares within 6 months of the registration or acquiring the shares.
+
+Shares are not adjusted for stock split.
+
+"Insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise"
+
+Peter Lynch
+
+What is insider trading>>
+
+Time period
+    
+
+
+  Goto 0, 
+
+1,
+
+2, ...
+
+13,
+
+14,
+
+Next
+
+Common stock purchase or sale:
+
+2024-02-02 Sale 2024-02-06 6:14 pm MICROSOFT CORP MSFT SMITH BRADFORD L Vice Chair and President 48,303 $411.39 $19,871,431 570,826 (Direct) View 2023-12-08 Sale 2023-12-11 6:43 pm MICROSOFT CORP MSFT Hogan Kathleen T EVP, Chief Human Resources Off 24,681 $369 $9,107,283 183,761 (Direct) View
+
+Stock options: Exercise, Award, Grant, Conversion
+
+2024-01-31 Option Award 2024-02-01 6:14 pm N/A N/A MICROSOFT CORP MSFT Johnston Hugh F Director 148 $0 7,818 (Direct) View 2024-01-31 Option Award 2024-02-01 6:14 pm N/A N/A MICROSOFT CORP MSFT List Teri Director 148 $0 24,486 (Direct) View 2024-01-31 Tax Withholding 2024-02-01 6:13 pm N/A N/A MICROSOFT CORP MSFT Walmsley Emma N Director 44 $397.58 9,914 (Direct) View 2024-01-31 Option Award 2024-02-01 6:13 pm N/A N/A MICROSOFT CORP MSFT Walmsley Emma N Director 148 $0 9,914 (Direct) View 2024-01-31 Option Award 2024-02-01 6:13 pm N/A N/A MICROSOFT CORP MSFT Hoffman Reid Director 226 $0 30,676 (Direct) View 2024-01-31 Option Award 2024-02-01 6:12 pm N/A N/A MICROSOFT CORP MSFT SCHARF CHARLES W Director 148 $0 44,318 (Direct) View 2024-01-31 Option Award 2024-02-01 6:12 pm N/A N/A MICROSOFT CORP MSFT STANTON JOHN W Director 148 $0 85,049 (Direct) View 2024-01-31 Option Award 2024-02-01 6:11 pm N/A N/A MICROSOFT CORP MSFT PRITZKER PENNY S Director 242 $0 24,055 (Direct) View 2024-01-31 Option Award 2024-02-01 6:11 pm N/A N/A MICROSOFT CORP MSFT Rodriguez Carlos A Director 258 $0 2,914 (Direct) View 2024-01-31 Option Award 2024-02-01 6:10 pm N/A N/A MICROSOFT CORP MSFT MacGregor Catherine Director 226 $0 226 (Direct) View 2024-01-31 Option Award 2024-02-01 6:10 pm N/A N/A MICROSOFT CORP MSFT Mason Mark Director 147 $0 576 (Direct) View 2024-01-31 Option Award 2024-02-01 6:10 pm N/A N/A MICROSOFT CORP MSFT PETERSON SANDRA E Director 267 $0 28,870 (Direct) View 2024-01-16 Tax Withholding 2024-01-16 6:03 pm N/A N/A MICROSOFT CORP MSFT Jolla Alice L. Chief Accounting Officer 198 $388.47 69,049 (Direct) View 2023-12-26 Gift 2023-12-29 7:32 pm N/A N/A MICROSOFT CORP MSFT Hogan Kathleen T EVP, Chief Human Resources Off 120 $0 183,641 (Direct) View 2023-12-14 Option Award 2023-12-15 6:11 pm N/A N/A MICROSOFT CORP MSFT WARRIOR PADMASREE Director 9 $0 18,132 (Direct) View 2023-12-15 Tax Withholding 2023-12-15 6:11 pm N/A N/A MICROSOFT CORP MSFT Jolla Alice L. Chief Accounting Officer 264 $365.93 69,246 (Direct) View 2023-12-14 Option Award 2023-12-15 6:10 pm N/A N/A MICROSOFT CORP MSFT THOMPSON JOHN WENDELL Director 142 $0 97,919 (Direct) View 2023-12-14 Option Award 2023-12-15 6:08 pm N/A N/A MICROSOFT CORP MSFT Rodriguez Carlos A Director 5 $0 2,656 (Direct) View 2023-12-14 Option Award 2023-12-15 6:07 pm N/A N/A MICROSOFT CORP MSFT PETERSON SANDRA E Director 47 $0 28,603 (Direct) View 2023-12-14 Option Award 2023-12-15 6:07 pm N/A N/A MICROSOFT CORP MSFT PRITZKER PENNY S Director 24 $0 23,812 (Direct) View 2023-12-14 Option Award 2023-12-15 6:06 pm N/A N/A MICROSOFT CORP MSFT Hoffman Reid Director 30 $0 30,449 (Direct) View 2023-12-14 Option Award 2023-12-15 6:06 pm N/A N/A MICROSOFT CORP MSFT List Teri Director 46 $0 24,338 (Direct) View Ownership 2023-12-08 6:33 pm N/A N/A MICROSOFT CORP MSFT Mason Mark Director 0 $0 429 (Direct) View Ownership 2023-12-08 6:32 pm N/A N/A MICROSOFT CORP MSFT MacGregor Catherine Director 0 $0 0 (Direct) View 2023-12-06 Tax Withholding 2023-12-07 6:14 pm N/A N/A MICROSOFT CORP MSFT Walmsley Emma N Director 48 $368.8 9,810 (Direct) View 2023-12-06 Option Award 2023-12-07 6:14 pm N/A N/A MICROSOFT CORP MSFT Walmsley Emma N Director 159 $0 9,810 (Direct) View 2023-12-06 Option Award 2023-12-07 6:13 pm N/A N/A MICROSOFT CORP MSFT WARRIOR PADMASREE Director 201 $0 18,123 (Direct) View 2023-12-06 Option Award 2023-12-07 6:12 pm N/A N/A MICROSOFT CORP MSFT THOMPSON JOHN WENDELL Director 159 $0 97,776 (Direct) View 2023-12-06 Option Award 2023-12-07 6:11 pm N/A N/A MICROSOFT CORP MSFT STANTON JOHN W Director 159 $0 84,902 (Direct) View 2023-12-06 Option Award 2023-12-07 6:10 pm N/A N/A MICROSOFT CORP MSFT SCHARF CHARLES W Director 159 $0 44,170 (Direct) View 2023-12-06 Option Award 2023-12-07 6:08 pm N/A N/A MICROSOFT CORP MSFT Rodriguez Carlos A Director 278 $0 2,651 (Direct) View 2023-12-06 Option Award 2023-12-07 6:06 pm N/A N/A MICROSOFT CORP MSFT PRITZKER PENNY S Director 261 $0 23,788 (Direct) View 2023-12-06 Option Award 2023-12-07 6:05 pm N/A N/A MICROSOFT CORP MSFT PETERSON SANDRA E Director 288 $0 28,556 (Direct) View 2023-12-06 Option Award 2023-12-07 6:04 pm N/A N/A MICROSOFT CORP MSFT List Teri Director 159 $0 24,292 (Direct) View 2023-12-06 Option Award 2023-12-07 6:00 pm N/A N/A MICROSOFT CORP MSFT Johnston Hugh F Director 159 $0 7,670 (Direct) View 2023-12-06 Option Award 2023-12-07 5:59 pm N/A N/A MICROSOFT CORP MSFT Hoffman Reid Director 244 $0 30,420 (Direct) View 2023-12-01 Gift 2023-12-01 6:06 pm N/A N/A MICROSOFT CORP MSFT SMITH BRADFORD L President and Vice Chair 10,000 $0 619,129 (Direct) View 2023-11-30 Tax Withholding 2023-12-01 6:05 pm N/A N/A MICROSOFT CORP MSFT Jolla Alice L. Chief Accounting Officer 452 $378.85 69,511 (Direct) View 2023-11-30 Tax Withholding 2023-12-01 6:04 pm N/A N/A MICROSOFT CORP MSFT Numoto Takeshi EVP, Chief Marketing Officer 368 $378.85 49,293 (Direct) View Ownership 2023-12-01 6:02 pm N/A N/A MICROSOFT CORP MSFT Numoto Takeshi EVP, Chief Marketing Officer 0 $0 49,662 (Direct) View
+
+
+  Goto 0, 
+
+1,
+
+2, ...
+
+13,
+
+14,
+
+Next
